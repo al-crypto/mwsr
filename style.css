@@ -1,0 +1,54 @@
+body {
+    background-color: #F7FAFC;
+}
+
+.navbar-container {
+    margin-top: 40px;
+    margin-right: 127px;
+}
+
+.navbar-brand {
+    font-size: 23px;
+    font-family: 'Righteous', cursive;
+    font-weight: 500;
+}
+
+.nav-item {
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+.hero {
+    margin-top: 110px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero h1 {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.hero h6 {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.newsletter {
+    margin-top: 150px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.newsletter h6 {
+    font-size: 18px;
+    font-weight: 300;
+}
+
+input.my-narrow-input {
+    max-width: 1000px;
+}
+
+footer {
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 300;
+}
