@@ -1,5 +1,6 @@
 body {
     background-color: #F7FAFC;
+    background-color: white;
 }
 
 .navbar-container {
@@ -9,38 +10,52 @@ body {
 
 .navbar-brand {
     font-size: 23px;
-    font-family: 'Righteous', cursive;
+    font-family: 'Montserrat', sans-serif;
     font-weight: 500;
 }
 
 .nav-item {
-    font-family: 'Poppins', sans-serif;
     font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
 }
 
 .hero {
     margin-top: 110px;
-    font-family: 'Poppins', sans-serif;
 }
 
 .hero h1 {
     font-size: 40px;
-    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    color: #4C4C4C;
 }
 
-.hero h6 {
+.hero p {
     font-size: 20px;
-    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: #797979;
+    line-height: normal;
 }
 
 .newsletter {
     margin-top: 150px;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
-.newsletter h6 {
+.newsletter h4 {
+    color: #4C4C4C;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+.newsletter p {
     font-size: 18px;
-    font-weight: 300;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    color: #797979;
+    line-height: normal;
 }
 
 input.my-narrow-input {
@@ -49,6 +64,6 @@ input.my-narrow-input {
 
 footer {
     font-size: 16px;
-    font-family: 'Poppins', sans-serif;
-    font-weight: 300;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
 }
